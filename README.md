@@ -1,6 +1,3 @@
-Here’s the enhanced README content with the techniques used in the analysis:
-
----
 
 # Assessing the Impact of Renewable Energy Expansion on Energy Poverty among EU Countries
 
@@ -26,7 +23,3 @@ This project explores how the growth of renewable energy impacts energy poverty 
 - **Machine Learning**: K-Means for clustering countries based on energy and poverty metrics.
 - **Time-Series Analysis**: Using Prophet for forecasting future trends in renewable energy adoption and energy poverty.
 - **Statistical Metrics**: Pearson and Spearman correlation coefficients for examining relationships.
-
----
-
-Let me know if you’d like further edits or additions!
